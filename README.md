@@ -27,10 +27,6 @@ I'm a passionate computer science engineer specialising in AI and ML. My interes
 ## 📂 Minor Projects
 
 ### Street Fighter Style Fighting Game in Python
-- Developed a 2D fighting game using Pygame, featuring custom player controls, animations, and mechanics.
-- Focused on implementing movement, fighting mechanics, and graphics to simulate a real fighting game environment.
-
----
 
 ## 🛠️ Tech Stack
 
